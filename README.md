@@ -6,5 +6,5 @@ Este projeto tem como intuito mostrar o processo de criação de um código para
 
 ## Links importantes
 
-[artigo](https://medium.com/@sammatheus17/usando-python-para-enumerar-arquivos-e-pastas-de-um-site-2f326d2ce659)
+[Artigo](https://medium.com/@sammatheus17/usando-python-para-enumerar-arquivos-e-pastas-de-um-site-2f326d2ce659)
 
