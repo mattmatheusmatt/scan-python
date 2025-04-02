@@ -1,0 +1,7 @@
+images
+css
+php
+robots.txt
+profiles
+finance
+sitemap.xml
